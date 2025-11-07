@@ -7,6 +7,9 @@ import 'package:web3dart/contracts.dart';
 import 'package:web3dart/credentials.dart';
 import 'package:web3dart/crypto.dart';
 
+import '../../../lib/credentials.dart' show EthereumAddress;
+import '../../../lib/src/credentials/address.dart' show EthereumAddress;
+import '../../../lib/web3dart.dart' show EthereumAddress;
 import 'data/basic_abi_tests.dart' as basic;
 import 'data/integers.dart' as ints;
 

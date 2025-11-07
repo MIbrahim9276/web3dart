@@ -30,11 +30,11 @@ export 'src/core/block_information.dart';
 export 'src/core/block_number.dart';
 export 'src/core/sync_information.dart';
 
+// Additions
+export 'src/credentials/address.dart';
+
 part 'src/core/client.dart';
 part 'src/core/filters.dart';
 part 'src/core/transaction.dart';
 part 'src/core/transaction_information.dart';
 part 'src/core/transaction_signer.dart';
-
-// Additions
-part 'src/credentials/address.dart'
