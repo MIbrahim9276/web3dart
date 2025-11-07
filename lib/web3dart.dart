@@ -35,3 +35,6 @@ part 'src/core/filters.dart';
 part 'src/core/transaction.dart';
 part 'src/core/transaction_information.dart';
 part 'src/core/transaction_signer.dart';
+
+// Additions
+part 'src/credentials/address.dart'
